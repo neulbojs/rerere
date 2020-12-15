@@ -1,4 +1,4 @@
 [submodule "testRepo"]
 	path = testRepo
 	url = https://github.com/neulbojs/testRepo
-	branch = gtest2
+	branch = master
